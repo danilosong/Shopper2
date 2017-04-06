@@ -1,0 +1,1 @@
+INSERT INTO usuario (id, NOME, EMAIL, SENHA, SENHA2, SEXO, IMG, DATA_NASC, nivel, cadastro, ativo) VALUES ('1', 'shopper', 'shopper@shopper.com', 'b480c074d6b75947c02681f31c90c668c46bf6b8', 'b480c074d6b75947c02681f31c90c668c46bf6b8', 'M', '', '2017-04-05', '2', NOW(), '1');
